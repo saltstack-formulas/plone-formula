@@ -26,7 +26,7 @@ Installs and configures plone virtualenv and instance from buildout. Requires pl
 Ensures the presence of the specified plone user and group running the plone instance.
 
 Extend example:
----------------
+===============
 
 ::
 
